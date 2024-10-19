@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "version": "0.2.0",
     "configurations": [
@@ -12,3 +13,19 @@
         }
     ]
 }
+=======
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch LoginApp",
+            "request": "launch",
+            "mainClass": "LoginApp",
+            "classPaths": [
+                "lib/mysql-connector-j-9.0.0.jar" // Update with your connector version
+            ]
+        }
+    ]
+}
+>>>>>>> 3a190a13ce014ca8f61cd1de7429af03014b1f02
